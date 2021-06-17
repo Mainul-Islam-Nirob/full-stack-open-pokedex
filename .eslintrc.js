@@ -26,7 +26,7 @@ module.exports = {
       ],
     "linebreak-style": [
       "error",
-      "unix"
+      process.env.NODE_ENV === 'prod' ? "unix" : "windows"
     ],
     "quotes": [
       "error",
