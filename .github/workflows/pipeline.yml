@@ -35,3 +35,4 @@ jobs:
           heroku_email: "maainul.islam@gmail.com"
           healthcheck: "https://fullstack-pokedex-mainul.herokuapp.com/health"
           checkstring: "ok"
+          rollbackonhealthcheckfailed: true
