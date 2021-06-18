@@ -1,1 +1,1 @@
-web: sss
+web: npm run start-prod
