@@ -14,4 +14,4 @@ Start by running `npm install` inside the project folder
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
 
-Exercise 11.16 Adding versioning with dry run
+Exercise 11.16 Adding versioning, testing workflow with removed dry run
