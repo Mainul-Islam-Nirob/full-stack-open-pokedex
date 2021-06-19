@@ -14,4 +14,4 @@ Start by running `npm install` inside the project folder
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
 
-11.17 Skipping a commit for tagging and deployment---testing
+checking from master branch everything works without #skip in commit 
