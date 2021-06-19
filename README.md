@@ -14,4 +14,4 @@ Start by running `npm install` inside the project folder
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
 
-11.17 Skipping a commit for tagging and deployment--- failed e2e test, trying again to see commit info.g
+11.17 Skipping a commit for tagging and deployment---testing
