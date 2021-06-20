@@ -46,7 +46,7 @@ jobs:
           healthcheck: "https://fullstack-pokedex-mainul.herokuapp.com/health"
           checkstring: "ok"
           rollbackonhealthcheckfailed: true
-       - name: send slack success notification
+      - name: send slack success notification
         uses: 8398a7/action-slack@v3
         with:
           status: custom
