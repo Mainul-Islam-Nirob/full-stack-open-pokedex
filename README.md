@@ -14,4 +14,5 @@ Start by running `npm install` inside the project folder
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
 
-11.19 -fixed yml syntax and trying again to see success message
+[visit this pokedex app online] (https://fullstack-pokedex-mainul.herokuapp.com/)
+
